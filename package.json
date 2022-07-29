@@ -1,0 +1,14 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "Teste para subir no Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Marta Silva Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
